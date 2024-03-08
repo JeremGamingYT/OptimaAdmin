@@ -4,3 +4,72 @@ main: com.jeremgaming.optimaadmin.Main
 api-version: '1.20'
 authors: [JeremGaming]
 description: MInecraft Advanced administration system (Quick and Easy to use)
+commands:
+  ban:
+    description: ban a player (with reason)
+    permission: optimaadmin.admin.ban
+    aliases: [ optimaadminban ]
+  tempban:
+    description: temporary ban a player (with day, week, month, years implemented) (with reason)
+    permission: optimaadmin.admin.tempban
+    aliases: [ optimaadmintempban ]
+  unban:
+    description: unban a player
+    permission: optimaadmin.admin.unban
+    aliases: [ optimaadminunban ]
+  kick:
+    description: kick a player (with reason)
+    permission: optimaadmin.admin.kick
+    aliases: [ optimaadminkick ]
+  mute:
+    description: mute a player (with time implemented) (with reason)
+    permission: optimaadmin.admin.mute
+    aliases: [ optimaadminmute ]
+  unmute:
+    description: unmute a player
+    permission: optimaadmin.admin.unmute
+    aliases: [ optimaadminunmute ]
+  teleport:
+    description: teleport to a player or coordinate
+    permission: optimaadmin.admin.teleport
+    aliases: [ optimaadminteleport, tp ]
+  teleportall:
+    description: teleport all player in the server (can cause lag or crash!)
+    permission: optimaadmin.admin.teleportall
+    aliases: [ optimaadminteleportall, tpall ]
+  teleporthere:
+    description: teleport a player on you
+    permission: optimaadmin.admin.teleporthere
+    aliases: [ optimaadminteleporthere, tphere ]
+  playerkill:
+    description: kill a player
+    permission: optimaadmin.admin.playerkill
+    aliases: [ optimaadminplayerkill, pk ]
+  heal:
+    description: heal a player
+    permission: optimaadmin.admin.heal
+    aliases: [ optimaadminheal ]
+  feed:
+    description: feed a player
+    permission: optimaadmin.admin.feed
+    aliases: [ optimaadminfeed ]
+  day:
+    description: set day
+    permission: optimaadmin.admin.day
+    aliases: [ optimaadminday ]
+  night:
+    description: set night
+    permission: optimaadmin.admin.night
+    aliases: [ optimaadminnight ]
+  sun:
+    description: remove weather (rain, thunder, etc.)
+    permission: optimaadmin.admin.sun
+    aliases: [ optimaadminsun ]
+  gamemode:
+    description: change your gamemode or a another player
+    permission: optimaadmin.admin.gamemode
+    aliases: [ optimaadmingamemode, gm ]
+  invsee:
+    description: see player inventory
+    permission: optimaadmin.admin.invsee
+    aliases: [ optimaadmininvsee ]
