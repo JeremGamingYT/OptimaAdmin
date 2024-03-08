@@ -34,6 +34,16 @@ Voici la liste des commandes disponibles :
 
 Et bien plus encore à venir !
 
+## Licence
+
+Ce plugin Minecraft est publié sous la licence Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). Vous êtes libre de partager l'œuvre par tous moyens et formats sous les conditions suivantes :
+
+- **Attribution** — Vous devez créditer l'œuvre, fournir un lien vers la licence et indiquer si des modifications ont été faites. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'auteur vous soutient ou soutient la façon dont vous avez utilisé son œuvre.
+- **NonCommercial** — Vous ne pouvez pas utiliser l'œuvre à des fins commerciales sans l'autorisation explicite de l'auteur.
+- **NoDerivatives** — Si vous remixez, transformez ou créez à partir du matériel, vous ne pouvez pas distribuer l'œuvre modifiée sans l'autorisation explicite de l'auteur.
+
+Pour obtenir la permission, veuillez contacter l'auteur.
+
 ## Support
 
 Si vous rencontrez des problèmes ou avez des suggestions, n'hésitez pas à me contacter.
