@@ -1,0 +1,6 @@
+name: OptimaAdmin
+version: '${project.version}'
+main: com.jeremgaming.optimaadmin.Main
+api-version: '1.20'
+authors: [JeremGaming]
+description: MInecraft Advanced administration system (Quick and Easy to use)
