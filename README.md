@@ -36,4 +36,4 @@ Et bien plus encore à venir !
 
 ## Support
 
-Si vous rencontrez des problèmes ou avez des suggestions, n'hésitez pas à (insérer ici comment vous contacter).
+Si vous rencontrez des problèmes ou avez des suggestions, n'hésitez pas à me contacter.
