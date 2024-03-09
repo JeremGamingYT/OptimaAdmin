@@ -25,12 +25,15 @@ Voici la liste des commandes disponibles :
 15. [x] **TempBan** : Bannit temporairement un joueur.
 16. [x] **UnBan** : Débannit un joueur.
 17. [x] **UnMute** : Démute un joueur.
+18. [x] **Ticket** : Demande d'aide aux administrateurs
+19. [x] **Report** : Signaler un joueur
 
 ## Fonctionnalités
 
 1. [ ] **Historique des punitions** : Affiche un historique des punitions pour chaque joueur.
 2. [ ] **Support des systèmes d'économie et de rangs** : Compatible avec les systèmes d'économie et de rangs existants.
-3. [ ] **Révision des punitions** : Permet aux joueurs de faire appel de leurs punitions.
+3. [x] **Révision des punitions** : Permet aux joueurs de faire appel de leurs punitions.
+4. **Surveillance et modération du chat**: Filtrer les messages du chat en fonction d'une liste de mots interdits ; Possibilité de censurer ou de remplacer automatiquement les mots offensants.
 
 Et bien plus encore à venir !
 
